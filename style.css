@@ -1,5 +1,10 @@
-p,h1 {
+p {
     color: red;
-    width: 500px;
+    width: 63px;
     border: 1px solid blue;
+}
+h1 {
+    color: blue;
+    width: 57px;
+    border: 1px solid green;
 }
