@@ -1,10 +1,21 @@
-p {
-    color: red;
-    width: 63px;
-    border: 1px solid blue;
+html {
+    font-size: 12px;
+    font-family: 'Finlandica', sans-serif;
+    background-color: aquamarine;
 }
-h1:hover {
-    color: blue;
-    width: 57px;
-    border: 1px solid green;
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: blueviolet;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+p {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
 }
