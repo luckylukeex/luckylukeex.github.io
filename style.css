@@ -6,7 +6,7 @@ html {
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: blueviolet;
+    background-color: wheat;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
 }
@@ -18,4 +18,7 @@ p {
     font-size: 25px;
     line-height: 2;
     letter-spacing: 1px;
+}
+div {
+    text-align: center;
 }
